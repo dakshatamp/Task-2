@@ -1,6 +1,8 @@
-# Suspected Adverse Drug Reaction Report
+# [ADR Form Documentation](https://www.cdsco.gov.in/opencms/opencms/en/Drugs/Pharmacovigilance-Programme/)
 
-## Allopurinol-Induced Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Syndrome
+## Suspected Adverse Drug Reaction Report
+
+### Allopurinol-Induced Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Syndrome
 
 *Prepared in accordance with the data fields of the Pharmacovigilance Programme of India (PvPI) Suspected Adverse Drug Reaction Reporting Form, Version 1.4*
 
